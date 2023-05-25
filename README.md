@@ -1,6 +1,8 @@
-# Simple React App
+# Encrypting Your Own Data
 
-A simple template for a webpack-based React app
+A simple demo for encrypting your own data with Babbage SDK in a webpack-based React app
+
+This code was created as part of a video on [encrypting your own data](https://youtu.be/WRdu0GcYh3E).
 
 ## Development Instructions
 
